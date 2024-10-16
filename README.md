@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/C4D16AQHZJ9cYWBsKUw/profile-displaybackgroundimage-shrink_350_1400/0/1556047303534?e=1712188800&v=beta&t=WrmaLHdgAwwAnJcepmirDGq7SghkSa8KQyivijpB1G0"  />
+  <img height="150" src="https://www.photovergnat.fr/media/cache/gallery_landscape/images/uploads/e681bac8c77807e4b66279ff48df7445.jpeg"  />
 </div>
 
 ###
