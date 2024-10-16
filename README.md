@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://www.photovergnat.fr/media/cache/gallery_landscape/images/uploads/e681bac8c77807e4b66279ff48df7445.jpeg"  />
-</div>
+
 
 ###
 
